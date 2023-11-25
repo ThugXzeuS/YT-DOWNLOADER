@@ -1,4 +1,4 @@
-<h1 align="center">Pyrogram YouTube Downloader Bot</h1>
+<h1 align="center">youtube downloader bot by ThugXzeuS</h1>
 
 <p align='center'>
  This is a simple Telegram bot built with Pyrogram that allows users to download YouTube videos and playlists. It supports both video and audio downloads, and provides a variety of resolution and format options for video downloads.
@@ -28,7 +28,7 @@
 __Clone the repository__
 
 ```
-git clone https://github.com/kalanakt/video-defuser.git
+git clone https://github.com/ThugXzeuS/YT-DOWNLOADER.git
 ```
 or 
 
@@ -52,7 +52,7 @@ python main.py
 
 <h3>Stay In Touch</h3>
 
-- [Telegram](https://t.me/TMWAD)
+- [Telegram](https://t.me/ThugXzeuS)
 
 <h3>Contribution</h3>
 
